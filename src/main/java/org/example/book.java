@@ -7,5 +7,5 @@ public class book {
     protected int puplishingId;
     protected String publishingDate;
     protected int genreId;
-
+    protected int count ;
 }
